@@ -2,6 +2,6 @@
 
 > Status do Porjeto: Em desenvolvimento
 
-'''
+```
 npm install
-'''
+```
